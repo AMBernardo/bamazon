@@ -1,0 +1,5 @@
+-I started working on the bamazon homework
+-Got the JS file to connect on my local database
+-Made a function that grabs the response from the data base and prints it
+-Made a function that promts the user for what item they want to but and for how many
+-psuedo coded what else needs to be done on my js file
